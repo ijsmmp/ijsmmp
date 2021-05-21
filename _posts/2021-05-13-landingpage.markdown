@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Relaunch of a Major New Open-Access International Journal on Music"
+date:   2021-05-13 
+---
+In November 2019, the first issue of the *International Journal for the Study of Music & Musical Performance* was uploaded to the Web. We, the six Chief Editors of IJSMMP, were proud of that first issue and solicited contributions for the second and later ones. The journal was first launched on the platform of Open Music Library (https://openmusiclibrary.org/journal/ijsmmp/). Soon thereafter, Open Music Library ceased operations.
+ 
+The journal has now migrated to the site of the publisher ProQuest, which has committed to maintaining the journal’s original intent (see below). At our request, ProQuest has agreed to give the journal a new, simpler title: *Music & Musical Performance: An International Journal*. 
+ 
+*Music & Musical Performance* is unusual and, in some ways, even unique. It is published online, open-access. Its editorial and advisory boards are **broadly international**. It welcomes **contributions in any language**, and aims—when possible—to offer a reliable English translation of contributions that are not in English.
+ 
+Most of all, *MMP* seeks to **bridge the worlds of academic discourse and of performers and listeners**. With this last aim in mind, it encourages **contributions that are more essayistic** than is typical in existing journals. It also welcomes reactions to **recorded and live performances**. Being an online journal, MMP can easily incorporate color illustrations, video, and sound files. Such enrichments help it to provide a forum for discussion of **music as it is practiced, and has been practiced, in numerous times and places and for widely differing purposes**.
+ 
+The first issue (under the old *IJSMMP* title) exemplifies some of these goals, with five articles and six reviews ranging from the medieval *ars subtilior* to musical practice in present-day Iran, stopping along the way to explore Bach’s flute music, Berlioz’s letters, works of John Cage, and the guitar music of Hans Werner Henze.
+ 
+Everything in the first issue happens to be in English, but one of the articles is a carefully vetted translation of a major study by a Francophone scholar who has spent his career teaching on the Caribbean island of Guadeloupe. This article, based on years of research in church and French-government archives, reconstructs for the first time the life and career of the most renowned operatic soprano active in New Orleans and the West Indies in the years around 1800, a “mixed-race” woman known as Minette. In this case, the French-language text of the article appeared almost simultaneously in a journal of Caribbean studies.
+ 
+Our second issue—and the first to bear the new title *Music & Musical Performance: An International Journal*—offers several articles directly bearing on performance. The great Danish soprano Elly Ameling shares her years of accumulated wisdom about performing art song. The renowned opera critic Stephen Hastings offers an insightful close comparison of ten remarkable recordings of Leonore’s big aria from Beethoven’s *Fidelio*. Dillon Parmer, who is both a professional tenor and a published musicologist, shares what he has learned about the best way to “reach” (or, better, *not* reach) for high notes. And there are, as before, a handful of reviews of unusual books and recordings, including a CD of the *early* version of *Fidelio* (generally known as *Leonore*, to avoid confusion) conducted by the early-music authority René Jacobs. And what we are calling a “handful” of reviews of recordings from Eastern Europe—another region that we are delighted to see represented in our international journal.
+ 
+We strongly urge scholars—and (more generally) eager commentators on music—from many lands and cultures to join us in our effort to maintain a **lively and varied forum for the discussion of Music & its multiple uses and meanings in human life.**
+
+Linked here are the tables of contents for **issue no. 1** and **no. 2**.
+
+For **issues nos. 3 and 4**, we would particularly welcome contributions relating to any of the following large themes: 
+ 
+- Music & ritual
+ 
+- Music & words (including opera, other theater music, and film)
+ 
+- Music as notated (e.g., a published score) vs. music as a performance or a recording
+ 
+- Music as heard or read: hermeneutic, embodied, expressive, and other possible “ways”
+ 
+- Centers and peripheries in musical life and musical composition: in earlier eras and now
+ 
+- Music & the life cycle (e.g., children's music, student music, wedding music, Music & the family home, Music & the elderly, Music & death/burial/mourning)
+ 
+- Music & social/political life: music of political solidarity and protest, Music & the workplace, Music & commerce (the shopping mall, radio/TV advertising), Music & the political process (political parties and rallies, TV news, etc.).
+ 
+Again, we remind potential contributors that they should feel free to offer writings that are somewhat **unusual in format** (for example, a string of short observations) and that, as appropriate, make imaginative use of **audio and visual materials**. Most of all, we encourage work that can speak to a **wide range of people**—**in many lands**—interested in how and why music has been made, heard, and debated and continues to be today.
+ 
+*Music & Musical Performance: An International Journal* appears under the auspices of six Chief Editors and a board of twenty-seven Advisory Editors from diverse fields and countries. We are peer-edited, but not formally peer-reviewed.
+
+Submissions, questions, and comments should be sent to any of our Chief Editors at the addresses below. Guidelines for contributors can be found at the journal’s site: https://openmusiclibrary.org/article/1030853/. ##this will be the proquest site now, right?##
+
