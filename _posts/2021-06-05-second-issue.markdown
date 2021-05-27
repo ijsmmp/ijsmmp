@@ -5,7 +5,10 @@ date:   2021-06-05
 ---
 
 **MUSIC & MUSICAL PERFORMANCE: AN INTERNATIONAL JOURNAL**
+
 ISSUE NO. 2 (2021; THE FIRST ISSUE UNDER THE JOURNAL’S NEW TITLE)
+
+<br>
 
 **Vocal Artistry: New Perspectives from Singers and Scholars**
 

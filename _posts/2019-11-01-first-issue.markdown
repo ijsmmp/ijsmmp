@@ -6,6 +6,7 @@ date:   2019-11-01
 
 
 **INTERNATIONAL JOURNAL OF MUSIC & MUSICAL PERFORMANCE**
+
 ISSUE NO. 1 (2019)
 
 **Articles**
@@ -24,12 +25,12 @@ Liselotte Sels. Cross-Cultural Performance of Iranian Contemporary Music: *Homma
 
 Ralph P. Locke. *Nouvelles lettres de Berlioz, de sa famille, de ses contemporains*, edited by Peter Bloom, Joël-Marie Fauquet, Hugh J. Macdonald, and Cécile Reynaud (Actes Sud/Palazzetto Bru Zane).
 
-Mark Rimple. *Think Subtilior / Cercle des Fumeux / Songs and Sounds* -—Santeny (Ricercare).
+Mark Rimple. *Think Subtilior / Cercle des Fumeux / Songs and Sounds* —Santeny (Ricercare).
 
-Rob Haskins. *J. S. Bach: Sonatas for Flute and Harpsichord* -—Stephen Schultz and Jory Vinikour (Music & Arts).
+Rob Haskins. *J. S. Bach: Sonatas for Flute and Harpsichord* —Stephen Schultz and Jory Vinikour (Music & Arts).
 
-Rob Haskins. *Chopin: The Complete Etudes* -—Jocelyn Swigger (Con Brio).
+Rob Haskins. *Chopin: The Complete Etudes* —Jocelyn Swigger (Con Brio).
 
-Rob Haskins. *John Cage: “Music for Piano 4–84” Overlapped* -—Pascale Berthelot (Collection Cuicatl).
+Rob Haskins. *John Cage: “Music for Piano 4–84” Overlapped* —Pascale Berthelot (Collection Cuicatl).
 
-Rob Haskins. *John Cage: “Two2”* -—Mark Knoop and Philip Thomas (Another Timbre).
+Rob Haskins. *John Cage: “Two2”* —Mark Knoop and Philip Thomas (Another Timbre).
