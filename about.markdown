@@ -3,16 +3,26 @@ layout: page
 title: About
 permalink: /about/
 ---
+> Formerly the International Journal for the Study of Music & Musical Performance, the newly launched and renamed Music & Musical Performance: An International Journal is available here, complete with all former issues under the old name.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+| Chief Editors | Affiliation | Email |
+| ----------- | ----------- | ----------- |
+| Beatriz Magalhães-Castro | Universidade de Brasília | bmagalhaescastro@gmail.com |
+| Tom Moore | Florida International University | querflote@gmail.com |
+| Catalina Vicens | Basel, Switzerland | servirantico@gmail.com |
+| Rob Haskins | University of New Hampshire | rob.haskins@unh.edu |
+| Luisa Nardini | University of Texas, Austin | nardini@utexas.edu |
+| Melanie Plesch | The University of Melbourne | mplesch@unumelb.edu.au |
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+| Advisory Editorial Board |
+| ----------- | 
+| David Ake | Virginia Anderson | David Claman |
+| Andy Connell | Alexandre Eisenberg | Elinor Frey |
+| Pauxy Gentil-Nunes | Sumanth Gopinath| Joan Josep Gutierrez |
+| Henry Howey | Heather Dea Jennings | Ralph P. Locke |
+| Marcos Lucas | Nicolas Meeùs | Marcio Pascoa |
+| Liduino Pitombeira | Mark Rimple | Marysol Quevedo |
+| Antonio Celso Ribeiro| Debby Rivers | Laura Ronai |
+| Jacob Sagrans | Dmitri Zisl Slepovich | Petros Stergiopoulos |
+| Peter Sykes | Joel Verkaik | Douglas Worthen |
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
