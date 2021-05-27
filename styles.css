@@ -1,0 +1,22 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 800;
+}
+
+a {
+    color: #86BBD8 !important;
+}
+
+.site-header {
+    background-color: #240B36;
+    color: #fff;
+    border-top: 0 !important;
+}
+
+.site-title, .site-title:visited, .page-link, .page-link:visited {
+    color: #fff !important;
+}
