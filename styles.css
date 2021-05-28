@@ -1,5 +1,5 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5 {
@@ -8,11 +8,11 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-    color: #86BBD8 !important;
+    color: #3475BC !important;
 }
 
 .site-header {
-    background-color: #240B36;
+    background-color: #300e48f5;
     color: #fff;
     border-top: 0 !important;
 }
