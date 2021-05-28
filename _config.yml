@@ -23,7 +23,7 @@ email: unsure@whothiswillbe.com
 description: >- # this means to ignore newlines until "baseurl:"
   Formerly the International Journal for the Study of Music & Musical Performance, the newly launched and renamed
   Music & Musical Performance: An International Journal is available here, complete with all former issues under the old name. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ijsmmp" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
